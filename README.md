@@ -1,5 +1,6 @@
-The difference between Nosql and Mysql
-This is for Nosqly.
+The difference between Nosql and Mysql.
+
+Answer
 
 NOSQL database is known as non-relational or distributed database.
 
